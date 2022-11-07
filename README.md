@@ -7,3 +7,5 @@ It surprised me that such a small infrared imaging sensor could get a fairly rea
 <img src="https://github.com/radiohound/MLX90640-infrared-cam-Teensy-4.1/blob/main/coffee_mug.jpg" width=25% height=25%>
 
 <img src="https://github.com/radiohound/MLX90640-infrared-cam-Teensy-4.1/blob/main/face_hand.jpg" width=25% height=25%>
+
+<img src="https://github.com/radiohound/MLX90640-infrared-cam-Teensy-4.1/blob/main/wifi-14ft.jpg" width=25% height=25%>

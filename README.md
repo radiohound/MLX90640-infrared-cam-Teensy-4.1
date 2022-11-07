@@ -11,5 +11,5 @@ It surprised me that such a small infrared imaging sensor could get a fairly rea
 <img src="https://github.com/radiohound/MLX90640-infrared-cam-Teensy-4.1/blob/main/wifi-14ft.jpg" width=25% height=25%>
 
 <iframe width="420" height="315"
-src="https://www.youtube.com/watch?v=UcrW1sQX-8s">
+src="https://www.youtube.com/embed/UcrW1sQX-8s?playlist=UcrW1sQX-8s&loop=1">
 </iframe>
